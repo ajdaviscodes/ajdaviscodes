@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajdaviscodes
 - 👀 I’m interested in teaching myself how to code!
 - 🌱 I’m currently learning the basics of web dev via Udemy and other self-teaching methonds.
-- 💞️ I’m looking to collaborate on NFT projects mostly but I'm overall excited about coding in general.
+
 - 📫 How to reach me: 
 
 <!---
