@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ajdaviscodes
-- 👀 I’m interested in teaching myself how to code!
-- 🌱 I’m currently learning the basics of web dev via Udemy and other self-teaching methonds.
+- 👀 I’m a Front End Developer.
+- 🌱 I’m currently learning React.js
 
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/ajdaviscodes/
 
 <!---
 ajdaviscodes/ajdaviscodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
